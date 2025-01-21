@@ -1,13 +1,13 @@
 
 England Euro 2020 Performance Analysis
 
-Welcome to the INF4000 Coursework repository! This project provides an in-depth analysis of England's performance during Euro 2020, presented through four interactive and informative visualizations.
+Welcome to the INF4000 Coursework repository! This project provides an in-depth analysis of England's performance during Euro 2020, presented through four interactive and informative visualisations.
 
 
 
 This repository contains: 
 
-Code for generating four visualizations that analyze key statistics from England's Euro 2020 matches.
+Code for generating four visualisations that analyze key statistics from England's Euro 2020 matches.
 
 Datasets required for the analysis. These datasets are ready to be downloaded and extracted for use with the visualisations.
 
